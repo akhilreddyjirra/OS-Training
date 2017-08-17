@@ -1,18 +1,11 @@
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+**Table of Contents**  <!--*generated with [DocToc](https://github.com/thlorenz/doctoc)* -->
 
 - [OpenShift "Training"](#openshift-training)
 - [Table of Contents](#table-of-contents)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-# DEPRECATED CONTENT
-This content was originally designed for pre-release versions of OpenShift 3.
-Since then, a lot has changed, and it has fallen into disrepair. If you are
-interested in this content, we suggest you checkout the [Discovery
-Center](https://github.com/openshift/discoverycenter) and consider contributing
-there.
 
 # OpenShift "Training"
 This repository provides instructions for how to set up a basic OpenShift 3.X
